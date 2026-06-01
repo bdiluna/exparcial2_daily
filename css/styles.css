@@ -7,7 +7,7 @@
 
 .menu {
     display: flex :1;
-    width:800px;
+    width:460px;
     margin:auto;
     list-style:none;
 }
@@ -17,8 +17,8 @@
     display:block;
     text-align:center;
     padding:15px;
-    background:#8fd3ff;
-    border:1px solid #2c6f99;
+    background:#a76714;
+    border:1px solid #185e0a;
     color:black;
     text-decoration:none;
 }
@@ -26,33 +26,32 @@
 
 .contenedor{
     width:900px;
-    margin:50px auto;
+    margin:500px auto;
 }
 
 .formulario{
     background:#c7f5fa;
-    border:10px solid #008fd1;
+    border:10px solid #9ba8ad;
     border-radius:35px;
-    padding:40px;
+    padding-right:400px;
     display:flex;
     justify-content:space-between;
     align-items:center;
 }
 
 
-label{
-    width:100px;
-    font-weight:bold;
-}
+
 
 
 button{
-    width: 150px ;
-    height: 90px ;
-    font-size:22px;
+    width: 90px ;
+    height: 45px ;
+    font-size:12px;
     font-style: italic ;
-    margin: 15px;
-    padding: 20px 30px;
-    border: 10px ;
-    color: #2c6f99;
+    margin: 10px;
+    padding: 30px 20px;
+    border: 15px ;
+    background-color: #2c6f99;
+    color: aliceblue;
+    padding-top: 20px;
 }
